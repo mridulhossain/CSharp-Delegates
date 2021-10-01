@@ -1,0 +1,16 @@
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\bin\Debug\net5.0\PassMethodAsAPerametterDelegates.exe
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\bin\Debug\net5.0\PassMethodAsAPerametterDelegates.deps.json
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\bin\Debug\net5.0\PassMethodAsAPerametterDelegates.runtimeconfig.json
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\bin\Debug\net5.0\PassMethodAsAPerametterDelegates.runtimeconfig.dev.json
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\bin\Debug\net5.0\PassMethodAsAPerametterDelegates.dll
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\bin\Debug\net5.0\ref\PassMethodAsAPerametterDelegates.dll
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\bin\Debug\net5.0\PassMethodAsAPerametterDelegates.pdb
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.csproj.AssemblyReference.cache
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.AssemblyInfoInputs.cache
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.AssemblyInfo.cs
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.csproj.CoreCompileInputs.cache
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.dll
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\ref\PassMethodAsAPerametterDelegates.dll
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.pdb
+F:\C#\Delegates\PassMethodAsAPerametterDelegates\obj\Debug\net5.0\PassMethodAsAPerametterDelegates.genruntimeconfig.cache

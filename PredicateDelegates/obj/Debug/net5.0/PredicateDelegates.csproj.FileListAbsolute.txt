@@ -1,0 +1,16 @@
+F:\C#\Delegates\PredicateDelegates\bin\Debug\net5.0\PredicateDelegates.exe
+F:\C#\Delegates\PredicateDelegates\bin\Debug\net5.0\PredicateDelegates.deps.json
+F:\C#\Delegates\PredicateDelegates\bin\Debug\net5.0\PredicateDelegates.runtimeconfig.json
+F:\C#\Delegates\PredicateDelegates\bin\Debug\net5.0\PredicateDelegates.runtimeconfig.dev.json
+F:\C#\Delegates\PredicateDelegates\bin\Debug\net5.0\PredicateDelegates.dll
+F:\C#\Delegates\PredicateDelegates\bin\Debug\net5.0\ref\PredicateDelegates.dll
+F:\C#\Delegates\PredicateDelegates\bin\Debug\net5.0\PredicateDelegates.pdb
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.csproj.AssemblyReference.cache
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.AssemblyInfoInputs.cache
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.AssemblyInfo.cs
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.csproj.CoreCompileInputs.cache
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.dll
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\ref\PredicateDelegates.dll
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.pdb
+F:\C#\Delegates\PredicateDelegates\obj\Debug\net5.0\PredicateDelegates.genruntimeconfig.cache

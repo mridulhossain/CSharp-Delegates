@@ -1,0 +1,15 @@
+F:\C#\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.exe
+F:\C#\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.deps.json
+F:\C#\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.runtimeconfig.json
+F:\C#\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.runtimeconfig.dev.json
+F:\C#\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.dll
+F:\C#\Delegates\MulticastDelegates\bin\Debug\net5.0\ref\MulticastDelegates.dll
+F:\C#\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.pdb
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.AssemblyInfoInputs.cache
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.AssemblyInfo.cs
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.dll
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\ref\MulticastDelegates.dll
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.pdb
+F:\C#\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.genruntimeconfig.cache

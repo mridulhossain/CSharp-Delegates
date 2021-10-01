@@ -1,0 +1,15 @@
+F:\C#\Delegates\SingelDelegates\bin\Debug\net5.0\SingelDelegates.exe
+F:\C#\Delegates\SingelDelegates\bin\Debug\net5.0\SingelDelegates.deps.json
+F:\C#\Delegates\SingelDelegates\bin\Debug\net5.0\SingelDelegates.runtimeconfig.json
+F:\C#\Delegates\SingelDelegates\bin\Debug\net5.0\SingelDelegates.runtimeconfig.dev.json
+F:\C#\Delegates\SingelDelegates\bin\Debug\net5.0\SingelDelegates.dll
+F:\C#\Delegates\SingelDelegates\bin\Debug\net5.0\ref\SingelDelegates.dll
+F:\C#\Delegates\SingelDelegates\bin\Debug\net5.0\SingelDelegates.pdb
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\SingelDelegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\SingelDelegates.AssemblyInfoInputs.cache
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\SingelDelegates.AssemblyInfo.cs
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\SingelDelegates.csproj.CoreCompileInputs.cache
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\SingelDelegates.dll
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\ref\SingelDelegates.dll
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\SingelDelegates.pdb
+F:\C#\Delegates\SingelDelegates\obj\Debug\net5.0\SingelDelegates.genruntimeconfig.cache

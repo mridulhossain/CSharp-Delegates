@@ -1,0 +1,16 @@
+F:\C#\Delegates\AnonymousMethodDelegates\bin\Debug\net5.0\AnonymousMethodDelegates.exe
+F:\C#\Delegates\AnonymousMethodDelegates\bin\Debug\net5.0\AnonymousMethodDelegates.deps.json
+F:\C#\Delegates\AnonymousMethodDelegates\bin\Debug\net5.0\AnonymousMethodDelegates.runtimeconfig.json
+F:\C#\Delegates\AnonymousMethodDelegates\bin\Debug\net5.0\AnonymousMethodDelegates.runtimeconfig.dev.json
+F:\C#\Delegates\AnonymousMethodDelegates\bin\Debug\net5.0\AnonymousMethodDelegates.dll
+F:\C#\Delegates\AnonymousMethodDelegates\bin\Debug\net5.0\ref\AnonymousMethodDelegates.dll
+F:\C#\Delegates\AnonymousMethodDelegates\bin\Debug\net5.0\AnonymousMethodDelegates.pdb
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.csproj.AssemblyReference.cache
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.AssemblyInfoInputs.cache
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.AssemblyInfo.cs
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.csproj.CoreCompileInputs.cache
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.dll
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\ref\AnonymousMethodDelegates.dll
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.pdb
+F:\C#\Delegates\AnonymousMethodDelegates\obj\Debug\net5.0\AnonymousMethodDelegates.genruntimeconfig.cache
